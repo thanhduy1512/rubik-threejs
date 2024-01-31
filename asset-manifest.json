@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rubik-threejs/static/css/main.1a7488ce.css",
-    "main.js": "/rubik-threejs/static/js/main.7da2dd7e.js",
+    "main.js": "/rubik-threejs/static/js/main.cbcdea99.js",
     "index.html": "/rubik-threejs/index.html",
     "main.1a7488ce.css.map": "/rubik-threejs/static/css/main.1a7488ce.css.map",
-    "main.7da2dd7e.js.map": "/rubik-threejs/static/js/main.7da2dd7e.js.map"
+    "main.cbcdea99.js.map": "/rubik-threejs/static/js/main.cbcdea99.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7488ce.css",
-    "static/js/main.7da2dd7e.js"
+    "static/js/main.cbcdea99.js"
   ]
 }
