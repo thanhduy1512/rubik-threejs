@@ -7,8 +7,8 @@ function App() {
   return (
     <HashRouter>
       <Routes>
-        <Route path="/" element={<Desk />} />
-        <Route path="rubik" element={<RotateCore />} />
+        <Route path="/" element={<RotateCore />} />
+        <Route path="/rubik" element={<RotateCore />} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </HashRouter>
