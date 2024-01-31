@@ -20,7 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "start": "npm install -g serve && serve -s build",
     "predeploy": "npm run build",
     "deploy": "master -d build",
     "build": "react-scripts build",
